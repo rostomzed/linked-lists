@@ -14,4 +14,4 @@ build: clean
 
 clean:
 	@echo "Cleaning up..."
-	@rm -f linked_list
+	@rm -rf linked_list linked_list.d*
