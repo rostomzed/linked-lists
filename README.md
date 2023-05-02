@@ -1,4 +1,4 @@
-# Linked lists in C
+# Linked lists in C with explanation for learners
 
 ## Contents
   - [Introduction](#introduction)
